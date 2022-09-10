@@ -3,7 +3,7 @@ from phonenumbers import carrier
 from phonenumbers import geocoder
 from phonenumbers import timezone
 
-number = "+916303017857"
+number = "+91xxxxxxxxxx"
 number = ph.parse(number)
 
 print(timezone.time_zones_for_number(number))
