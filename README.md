@@ -4,7 +4,7 @@
 
 #### 1. [Password generator](https://github.com/iamrahulreddy/MINI_Projects/blob/main/password_generator.py).
         This program can be improved but it mostly statisfies cuurently used industry standard practices for passwords.
-        We should impport random module
+        We should import random module
         We then use sample function for sampling,and then we join it with the sampled characters,numbers,special characters. 
  
  ### 2.[Guessing game using python](https://github.com/iamrahulreddy/MINI_Projects/blob/main/GuessingGameUsingPython.py).
