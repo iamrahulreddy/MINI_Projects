@@ -3,7 +3,7 @@
 ### This Repo Has Mini Projects In Python
 
 #### 1. [Password generator](https://github.com/iamrahulreddy/MINI_Projects/blob/main/password_generator.py).
-        This program can be improved but it mostly statisfies currently used industry standard practices for passwords.
+        This program can be improved but it mostly satisfies currently used industry standard practices for passwords.
         We should import random module
         We then use sample function for sampling,and then we join it with the sampled characters,numbers,special characters. 
  
